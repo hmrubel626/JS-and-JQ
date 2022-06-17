@@ -1,0 +1,85 @@
+.sec1{
+	margin-top: 20px;
+}
+
+.sec2{
+	margin: 50px;
+}
+
+
+.panel{
+	cursor: pointer;
+}
+.content{
+	display: none;
+}
+
+
+
+.c_div {
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    float: left;
+  }
+  .p22 {
+    clear: left;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    margin: 0 10px;
+    padding: 4px;
+  }
+
+
+
+
+  .p33 {
+    margin: 5px;
+    padding: 5px;
+  }
+
+  .div33{
+  	margin: 5px;
+    padding: 5px;
+  }
+  .border {
+    border: 2px solid red; !important;
+  }
+  .background {
+    background: yellow;
+  }
+  .left {
+    width: 45%;
+    float: left;
+  }
+
+  .right{
+  	width: 45%;
+    float: left;
+    margin-left: 3%;
+  }
+
+
+
+
+  .p44 {
+    margin: 8px;
+    font-size: 16px;
+    
+  }
+  .selected {
+    color: red;
+  }
+  .highlight {
+    background: yellow;
+  }
+
+
+  .p55{
+    cursor: pointer;
+  }
+
+
+  
+  
